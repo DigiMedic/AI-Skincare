@@ -1,0 +1,93 @@
+role: Sophia, nadšenkyně do péče o pleť
+cíl: Chce personalizovaná doporučení pro péči o pleť
+
+přínos: Zlepšit stav své pleti a dosáhnout zářivého vzhledu.
+
+Typ: Aplikace: průtok aplikací
+
+* Otevřít aplikaci
+** Přihlaste se ke stávajícímu účtu
+P: Potíže se zapamatováním přihlašovacích údajů
+G: Nabídněte možnost obnovení hesla nebo povolte biometrické ověřování pro snadnější přihlášení
+
+** Vytvořit nový účet, pokud Sophia nemá účet
+P: Příliš mnoho úkonů k vytvoření účtu může Sophii frustrovat.
+G: Zavedení možnosti přihlášení jedním klepnutím nebo přihlašování bez hesla pomocí e-mailové adresy zlepší uživatelský komfort Sophie.
+
+SC: Onboarding je proveden rychle a Sophia je připravena používat chatbota pro péči o pleť.
+
+* Nahrát fotografii
+** Nahrání fotografie jejího obličeje
+P: Sophia může váhat se sdílením fotografií své pleti.
+G: Ujistit Sophii, že její údaje jsou bezpečné a anonymizované.
+
+** Pořiďte fotografii pomocí fotoaparátu aplikace
+*** Poskytněte jasné pokyny, jak pořídit kvalitní fotografii pro analýzu.
+P: Sophia možná neví, jak pořídit kvalitní fotografii své pleti.
+G: Nabídněte pokyny a příklady, jak pořídit fotografii pro optimální analýzu.
+
+SC: Chatbot úspěšně přijme a analyzuje Sophiinu fotografii pleti.
+
+* Analýza pleti
+** Určí typ pleti (např. mastná, suchá, smíšená).
+P: Sophia nemusí být obeznámena s různými typy pleti.
+G: Poskytněte jasné vysvětlení a vizuální znázornění různých typů pleti.
+
+** Rozpoznat problémy s pletí (např. akné, vrásky, tmavé skvrny).
+*** Použijte umělou inteligenci k přesné identifikaci a analýze vlastností pleti.
+P: Sophia může být skeptická ohledně přesnosti analýzy umělou inteligencí.
+G: Zdůrazněte, že chatbot využívá pokročilou AI a znalosti získané od odborníků.
+
+** Posoudit stav pleti (např. mírný, středně závažný, závažný).
+P: Sophia by se mohla cítit zahlcena složitými odbornými termíny.
+G: K vysvětlení výsledků analýzy použijte jednoduchý a srozumitelný jazyk.
+
+SC: Chatbot poskytuje podrobnou a přesnou analýzu Sophiiny kůže.
+
+* Generování personalizovaných doporučení
+** Navrhne vhodné produkty péče o pleť
+P: Sophia si nemusí být jistá účinností doporučených produktů.
+G: Poskytne informace o produktech, recenze a odkazy na důvěryhodné prodejce.
+
+** Doporučení změn životního stylu (např. stravy, spánku, hydratace).
+P: Sophia může mít potíže s dodržováním doporučení týkajících se životního stylu
+G: Nabídněte praktické a dosažitelné tipy přizpůsobené jejím konkrétním potřebám.
+
+** Navrhněte rutinní postupy a harmonogramy péče o pleť
+P: Sophia by mohla mít problémy se zařazením péče o pleť do svého denního režimu.
+G: Nabídněte jednoduché a snadno proveditelné postupy s flexibilními možnostmi.
+
+SC: Sophia dostane praktická a přizpůsobená doporučení v oblasti péče o pleť na základě svých jedinečných potřeb.
+
+* Sledování pokroku
+** Umožněte Sophii zaznamenávat rutinní péči o pleť a produkty.
+P: Sophia by mohla zapomenout sledovat své pokroky
+G: Povolte upomínky a oznámení, abyste podpořili důsledné sledování.
+
+** Poskytovat zpětnou vazbu o Sophiiných pokrocích a podle toho upravovat doporučení
+P: Sophia nemusí vidět výsledky okamžitě
+G: Nabízejte povzbuzení a podporu, abyste Sophii motivovali v její cestě za péčí o pleť.
+
+SC: Sophia může sledovat své pokroky a získávat zpětnou vazbu, aby zlepšila výsledky péče o pleť.
+
+* Poskytovat průběžnou podporu
+** Nabídněte Sophii možnost klást otázky a získat odborné rady
+P: Sophia může mít otázky týkající se její pleti nebo doporučení chatbota.
+G: Poskytněte obsáhlou sekci nejčastějších otázek a podporu v chatu.
+
+** Poskytovat vzdělávací obsah o péči o pleť
+P: Sophia může mít nedostatek znalostí o péči o pleť
+G: Nabídněte články, videa a infografiky, které Sophii pomohou lépe porozumět péči o pleť.
+
+SC: Sophia má přístup k průběžné podpoře a informacím, které jí pomohou zlepšit péči o pleť.
+
+Role:
+Goal:
+Benefit:
+Type:
+
+* Open app 
+** Do something 
+*** Add notes here 
+P: Your pain point 
+G: Your gain point
